@@ -10,8 +10,6 @@ This is a Sorting Visualizer web application that allows users to visualize vari
   - [Getting Started](#getting-started)
   - [Usage](#usage)
   - [Folder Structure](#folder-structure)
-  - [Dependencies](#dependencies)
-  - [Contributing](#contributing)
 
 ## Introduction
 The Sorting Visualizer allows users to interactively visualize the sorting process of different algorithms such as Bubble Sort, Insertion Sort, Selection Sort, Heap Sort, Quick Sort, and Merge Sort. The web application provides a user-friendly interface with a navigation bar, adjustable array size and sorting speed, and a button to trigger the sorting process.
@@ -43,8 +41,3 @@ The Sorting Visualizer allows users to interactively visualize the sorting proce
 - **README.md**: This documentation file.
 - **index.html**: The main HTML file for the web application.
 
-## Dependencies
-- [Bootstrap 5.0.0-beta2](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Used for styling the web application.
-
-## Contributing
-If you would like to contribute to the project, please follow the [contribution guidelines](CONTRIBUTING.md)
