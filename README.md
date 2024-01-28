@@ -24,7 +24,7 @@ The Sorting Visualizer allows users to interactively visualize the sorting proce
 ## Getting Started
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/sorting-visualizer.git
+   git clone https://github.com/Zunysha/sorting-visualizer.git
    ```
 2. Open the `index.html` file in a web browser to run the application.
 
