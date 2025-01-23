@@ -2,6 +2,7 @@
 
 This is a Sorting Visualizer web application that allows users to visualize various sorting algorithms in action. The application is built using HTML, CSS, and JavaScript with the Bootstrap framework for styling.
 
+Access the Visualizer to use from here (https://kind-river-0e001b510.4.azurestaticapps.net)
 ## Table of Contents
 - [Sorting Visualizer Readme](#sorting-visualizer-readme)
   - [Table of Contents](#table-of-contents)
